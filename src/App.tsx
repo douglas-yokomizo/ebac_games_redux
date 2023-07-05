@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react'
 import Header from './components/Header'
 import Produtos from './containers/Produtos'
 import { Provider } from 'react-redux'
